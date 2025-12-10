@@ -11,7 +11,6 @@ Small prototype demonstrating a digital KYC onboarding flow with:
 ## Tech stack
 - Backend: Python Flask + Pillow
 - Frontend: static HTML/JS (fetch API)
-- Minimal requirements for student project and demo.
 
 ## Run locally
 1. Create virtualenv:
