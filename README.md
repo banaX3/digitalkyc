@@ -16,7 +16,7 @@ Small prototype demonstrating a digital KYC onboarding flow with:
 1. Create virtualenv:
    ```bash
    python -m venv venv
-   source venv/bin/activate   # or venv\Scripts\activate on Windows
+   source venv/bin/activate   
    cd backend
    pip install -r requirements.txt
    python app.py
